@@ -1,3 +1,3 @@
 # 🚀 Job & Networking Portal 🌐
-> **Core Team Internship Submission — [Your Name]**
+> **Core Team Internship Submission — Jihvitha Lakshmi Mannam**
 ...(README content from earlier)...
