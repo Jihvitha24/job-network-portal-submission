@@ -1,0 +1,1 @@
+import React from 'react'; import ProfilePage from './components/ProfilePage'; import PostJobPage from './components/PostJobPage'; import WalletButton from './components/WalletButton'; function App() { return (<div><h1>Job Portal</h1><WalletButton/><ProfilePage/><PostJobPage/></div>);} export default App;
